@@ -126,11 +126,11 @@ STATIC_URL = '/static/'
 
 # Configuration for sending e-mails via Gmail
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'abu.dimitrius@gmail.com'
-EMAIL_HOST_PASSWORD = '!@caller1986id50@!'
+EMAIL_HOST_USER = 'your.mail@gmail.com'
+EMAIL_HOST_PASSWORD = 'YourPa$$Word'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
-
+нщг
 # Configuration of Haystack connections
 HAYSTACK_CONNECTIONS = {
     'default': {
